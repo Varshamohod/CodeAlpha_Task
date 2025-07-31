@@ -1,0 +1,13 @@
+body {
+  font-family: 'Times New Roman';
+  text-align: center;
+  margin-top: 50px;
+  background-color: lightblue;
+}
+input, button {
+
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+  border: 1px solid;
+}
